@@ -1,0 +1,1 @@
+    print(operations[0])
