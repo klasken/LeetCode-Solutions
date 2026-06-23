@@ -1,1 +1,0 @@
-    print(operations[0])
